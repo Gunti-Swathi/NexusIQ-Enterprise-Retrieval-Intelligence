@@ -247,14 +247,6 @@ cp .env.example .env
 docker compose up --build
 ```
 
-## Example Queries
-
-- What is the approval process for annual leave?
-- What expenses require manager approval?
-- How are SEV1 incidents escalated?
-- Compare approval workflows across leave requests and expense reimbursements.
-- Find all situations where approval or escalation is required.
-- Summarize employee responsibilities across company policies.
 
 ## What This Project Demonstrates
 
