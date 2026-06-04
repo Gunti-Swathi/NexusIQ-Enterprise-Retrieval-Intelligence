@@ -247,7 +247,6 @@ cp .env.example .env
 docker compose up --build
 ```
 
-
 ## What This Project Demonstrates
 
 - End-to-end RAG application design for internal company knowledge
@@ -259,18 +258,6 @@ docker compose up --build
 - Latency-aware LangGraph orchestration
 - LangSmith observability for retrieval systems
 - Full-stack AI engineering across React, FastAPI, vector search, and LLM workflows
-
-## Future Improvements
-
-- User authentication and role-based access
-- Larger internal document corpus
-- Persistent cloud vector database
-- Advanced reranker model
-- Better PDF table extraction
-- Batch evaluation dataset
-- CI/CD deployment
-- Admin controls for re-indexing and corpus versioning
-- Department-level access policies for HR, finance, and engineering documents
 
 ## Conclusion
 
